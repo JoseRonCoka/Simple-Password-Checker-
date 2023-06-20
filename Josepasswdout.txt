@@ -1,0 +1,24 @@
+PasswordGreat! - Password not accepted.
+The Password should have exactly TWO DIGITS. Your Password has 0 digits.
+ 
+Passw0rD$2great - Password Accepted.
+pswd12GR - Password not accepted.
+Your Password is shorter than 12 character.
+ The Password should have exactly ONE SPECIAL character, your Password has 0 special chars.
+ 
+12password! - Password not accepted.
+Your Password is shorter than 12 character.
+ The Password should have exactly TWO UPPERCASE letter. Your Password has 0 uppercase letter.
+ 
+1234567890 - Password not accepted.
+Your Password is shorter than 12 character.
+ The Password should have exactly TWO UPPERCASE letter. Your Password has 0 uppercase letter.
+ The Password should have exactly TWO DIGITS. Your Password has 10 digits.
+ The Password should have exactly ONE SPECIAL character, your Password has 0 special chars.
+ 
+G00dpasss%wD - Password Accepted.
+Gr8Password - Password not accepted.
+Your Password is shorter than 12 character.
+ The Password should have exactly TWO DIGITS. Your Password has 1 digits.
+ The Password should have exactly ONE SPECIAL character, your Password has 0 special chars.
+ 
